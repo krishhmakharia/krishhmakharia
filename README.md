@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishhmakharia
 - 👀 I’m interested in WebDev and programming
-- 🌱 I’m currently learning React and Java
+- 🌱 I’m currently learning React and Java SpringBoot
 - 💞️ I’m looking to collaborate on projects like(Dynamic websites and UI design )
 - 📫 How to reach me --> email (krishhmakharia@gmail.com)
 <!---
